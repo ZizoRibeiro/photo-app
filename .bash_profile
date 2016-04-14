@@ -1,0 +1,2 @@
+export SENDGRID_USERNAME=zizo.ribeiro
+export SENDGRID_PASSWORD=ruse2171
